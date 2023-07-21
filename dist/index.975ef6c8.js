@@ -2946,20 +2946,13 @@ var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _reactDom = require("react-dom");
-// import ReactDOM from "react-dom/client";
 var _app = require("./components/App");
 var _appDefault = parcelHelpers.interopDefault(_app);
 (0, _reactDom.render)(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _appDefault.default), {}, void 0, false, {
     fileName: "src/index.js",
-    lineNumber: 6,
+    lineNumber: 5,
     columnNumber: 8
 }, undefined), document.getElementById("app"));
-// const root = ReactDOM.createRoot(document.getElementById("app"));
-// root.render(
-//   <React.StrictMode>
-//     <App />
-//   </React.StrictMode>
-// );
 if (module.hot) module.hot.accept(function() {
     window.location.reload();
 });

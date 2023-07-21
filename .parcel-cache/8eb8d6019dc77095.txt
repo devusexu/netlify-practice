@@ -1,4 +1,4 @@
-21944
+21945
 39/home/xu/will-it-miss/package-lock.json1689929883401957410 0
 47/home/xu/will-it-miss/src/components/Orbital.js1689870510198967320 0
 43/home/xu/will-it-miss/src/components/App.js1689924026862657218 0
@@ -11,16 +11,17 @@
 29/home/xu/will-it-miss/src/img1689870510268967310 1
 25/home/xu/will-it-miss/src1689870510228967316 1
 34/home/xu/will-it-miss/package.json1689929914331958706 0
-44/home/xu/will-it-miss/dist/index.975ef6c8.js1689942989530415871 0
-49/home/xu/will-it-miss/dist/asteriod2.644803cf.svg1689942989470415877 0
+32/home/xu/will-it-miss/.gitignore1689943959120298535 0
+44/home/xu/will-it-miss/dist/index.975ef6c8.js1689944688520220390 0
+49/home/xu/will-it-miss/dist/asteriod2.644803cf.svg1689944688460220393 0
 49/home/xu/will-it-miss/dist/asteriod1.cf07862c.svg1689929917791958453 0
-45/home/xu/will-it-miss/dist/index.61d3354a.css1689942989470415877 0
+45/home/xu/will-it-miss/dist/index.61d3354a.css1689944688450220395 0
 45/home/xu/will-it-miss/dist/index.efe59cdf.css1689929918141958430 0
-49/home/xu/will-it-miss/dist/asteriod1.c379addf.svg1689942989490415877 0
-48/home/xu/will-it-miss/dist/index.975ef6c8.js.map1689942989530415871 0
-42/home/xu/will-it-miss/dist/bg.6b392238.svg1689942989490415877 0
+49/home/xu/will-it-miss/dist/asteriod1.c379addf.svg1689944688460220393 0
+48/home/xu/will-it-miss/dist/index.975ef6c8.js.map1689944688530220387 0
+42/home/xu/will-it-miss/dist/bg.6b392238.svg1689944688520220390 0
 45/home/xu/will-it-miss/dist/stars.6374224d.svg1689929917791958453 0
-26/home/xu/will-it-miss/dist1689942989540415870 1
+26/home/xu/will-it-miss/dist1689944688530220387 1
 61/home/xu/will-it-miss/node_modules/gensync/test/index.test.js1689919385073191746 0
 47/home/xu/will-it-miss/node_modules/gensync/test1689919385063191746 1
 56/home/xu/will-it-miss/node_modules/gensync/index.js.flow1689919385063191746 0
@@ -4633,7 +4634,7 @@
 86/home/xu/will-it-miss/node_modules/date-fns/esm/locale/de/_lib/formatDistance/index.js1689929881401957255 0
 67/home/xu/will-it-miss/node_modules/@parcel/transformer-json/LICENSE1689911138784161706 0
 82/home/xu/will-it-miss/node_modules/@parcel/transformer-json/lib/JSONTransformer.js1689911138794161698 0
-37/home/xu/will-it-miss/dist/index.html1689942989490415877 0
+37/home/xu/will-it-miss/dist/index.html1689944688520220390 0
 79/home/xu/will-it-miss/node_modules/caniuse-lite/data/features/css-namespaces.js1689911139364161150 0
 63/home/xu/will-it-miss/node_modules/@parcel/types/lib/index.d.ts1689911138924161573 0
 69/home/xu/will-it-miss/node_modules/@babel/eslint-parser/lib/parse.cjs1689919385683191742 0
@@ -6347,7 +6348,7 @@
 69/home/xu/will-it-miss/node_modules/date-fns/locale/sv/_lib/formatLong1689929882011957304 1
 72/home/xu/will-it-miss/node_modules/@swc/helpers/src/_super_prop_base.mjs1689911139564160959 0
 99/home/xu/will-it-miss/node_modules/eslint-plugin-react/node_modules/resolve/test/home_paths_sync.js1689910869484183891 0
-34/home/xu/will-it-miss/src/index.js1689929334072023782 0
+34/home/xu/will-it-miss/src/index.js1689944687810220449 0
 75/home/xu/will-it-miss/node_modules/es-abstract/2020/IsAccessorDescriptor.js1689910869594183890 0
 63/home/xu/will-it-miss/node_modules/@parcel/resolver-default/lib1689911138784161706 1
 92/home/xu/will-it-miss/node_modules/@parcel/codeframe/node_modules/color-convert/package.json1689911138784161706 0
@@ -8378,7 +8379,7 @@
 65/home/xu/will-it-miss/node_modules/which-typed-array/CHANGELOG.md1689910869404183891 0
 66/home/xu/will-it-miss/node_modules/caniuse-lite/data/regions/LI.js1689911139514161006 0
 74/home/xu/will-it-miss/node_modules/date-fns/esm/yearsToMonths/package.json1689929882431957336 0
-21/home/xu/will-it-miss1689929474282005875 1
+21/home/xu/will-it-miss1689943942790300944 1
 60/home/xu/will-it-miss/node_modules/@parcel/packager-html/src1689911138814161679 1
 61/home/xu/will-it-miss/node_modules/date-fns/sub/index.js.flow1689929881161957237 0
 54/home/xu/will-it-miss/node_modules/lmdb/src/cursor.cpp1689911139284161227 0
@@ -8517,7 +8518,7 @@
 57/home/xu/will-it-miss/node_modules/@parcel/transformer-js1689911139924160851 1
 63/home/xu/will-it-miss/node_modules/@swc/helpers/_/_create_class1689911139484161034 1
 71/home/xu/will-it-miss/node_modules/es-abstract/2022/CloneArrayBuffer.js1689910869554183890 0
-49/home/xu/will-it-miss/dist/index.61d3354a.css.map1689942989480415878 0
+49/home/xu/will-it-miss/dist/index.61d3354a.css.map1689944688450220395 0
 67/home/xu/will-it-miss/node_modules/@swc/helpers/esm/_export_star.js1689911139314161197 0
 46/home/xu/will-it-miss/node_modules/ajv/scripts1689870616008952727 1
 87/home/xu/will-it-miss/node_modules/css-select/node_modules/domutils/lib/esm/legacy.d.ts1689911139144161360 0
@@ -8562,7 +8563,7 @@
 65/home/xu/will-it-miss/node_modules/es-abstract/helpers/IsArray.js1689910869594183890 0
 98/home/xu/will-it-miss/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/package.json1689911138974161524 0
 84/home/xu/will-it-miss/node_modules/@swc/helpers/_/_class_check_private_static_access1689911139444161072 1
-45/home/xu/will-it-miss/dist/stars.bd7e51c0.svg1689942989490415877 0
+45/home/xu/will-it-miss/dist/stars.bd7e51c0.svg1689944688460220393 0
 69/home/xu/will-it-miss/node_modules/date-fns/esm/isValid/index.js.flow1689929880931957219 0
 78/home/xu/will-it-miss/node_modules/caniuse-lite/data/features/sharedworkers.js1689911139574160948 0
 79/home/xu/will-it-miss/node_modules/@swc/helpers/lib/_iterable_to_array_limit.js1689911139344161169 0

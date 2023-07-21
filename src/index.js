@@ -1,8 +1,12 @@
 import React from 'react';
 import { render } from 'react-dom';
 import App from './components/App';
+import { createRoot } from 'react-dom/client';
 
-render(<App />, document.getElementById('app'));
+const domNode = document.getElementById('app');
+const root = createRoot(domNode);
+root.render(<App />);
+// render(<App />, document.getElementById('app'));
 
 
 if (module.hot) {

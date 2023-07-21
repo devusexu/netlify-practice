@@ -10,8 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.22.9",
-    "@babel/eslint-parser": "^7.22.9",
     "eslint": "^8.45.0",
     "eslint-plugin-react": "^7.33.0",
     "parcel": "^2.9.3",
@@ -21,10 +19,10 @@
     "process": "^0.11.10"
   },
   "dependencies": {
-    "date-fns": "^2.30.0",
+    "date-fns": "^2.11.1",
     "format-number": "^3.0.0",
-    "react": "^18.2.0",
-    "react-async-hook": "^4.0.0",
-    "react-dom": "^18.2.0"
+    "react": ">=16.8",
+    "react-async-hook": "^3.6.1",
+    "react-dom": "^16.13.1"
   }
 }
